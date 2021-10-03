@@ -455,6 +455,7 @@ ul
     /* margin-bottom: 5px;
     padding: 2px 7px; */
     font-family: CeraProMedium;
+    max-width: 400px;
 }
 
 .meta1
@@ -464,6 +465,7 @@ ul
     /* background-color: rgba(0, 0, 0, 0.4); */
     /* margin-top: 5px;
     padding: 2px 7px; */
+    max-width: 400px;
 }
 
 .infos
